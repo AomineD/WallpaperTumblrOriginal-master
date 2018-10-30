@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.SetWallpaperFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back_item_black">
+
+
+
+        <ImageView
+            android:id="@+id/back_se"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/back_setwallpaper" />
+
+        <ImageView
+            android:id="@+id/back_setter"
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/app_icon"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="296dp"
+            android:layout_height="51dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/caudex"
+            android:gravity="center"
+            android:text="@string/select_an_option"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/list_buttons"
+            android:layout_width="match_parent"
+            android:layout_height="513dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="54dp"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <RelativeLayout
+                android:layout_width="310dp"
+                android:layout_height="90dp"
+                android:background="@drawable/back_item_black"
+                >
+
+                <TextView
+                    android:id="@+id/ss1"
+                    android:layout_width="120dp"
+                    android:layout_height="53dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="50dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="0dp"
+                    android:layout_toRightOf="@+id/likewallpaper"
+                    android:fontFamily="@font/average_sans"
+                    android:gravity="center"
+                    android:text="@string/like_wallpaper"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <Button
+                    android:id="@+id/likewallpaper"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/wallpaper_icon" />
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/star_gif_1"
+                    android:visibility="gone"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/selected_star"
+                    />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="310dp"
+                android:layout_height="90dp"
+                android:background="@drawable/back_item_black"
+                >
+
+                <TextView
+                    android:id="@+id/ss2"
+                    android:layout_width="120dp"
+                    android:layout_height="53dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_toRightOf="@+id/likelock"
+                    android:fontFamily="@font/average_sans"
+                    android:gravity="center"
+                    android:text="@string/like_ws_profile"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <Button
+                    android:id="@+id/likelock"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/ws_icon" />
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/star_gif_2"
+                    android:visibility="gone"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/selected_star"
+                    />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="310dp"
+                android:layout_height="90dp"
+                android:background="@drawable/back_item_black"
+                >
+
+                <TextView
+                    android:id="@+id/ss3"
+                    android:layout_width="120dp"
+                    android:layout_height="53dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_toRightOf="@+id/share"
+                    android:fontFamily="@font/average_sans"
+                    android:gravity="center"
+                    android:text="@string/share_it"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/share"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/share_icon" />
+
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:id="@+id/star_gif_3"
+                    android:visibility="gone"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/selected_star"
+                    />
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</FrameLayout>

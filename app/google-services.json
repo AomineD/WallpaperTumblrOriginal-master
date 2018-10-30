@@ -1,0 +1,520 @@
+{
+  "project_info": {
+    "project_number": "164844429720",
+    "firebase_url": "https://bit-cinema-playlist.firebaseio.com",
+    "project_id": "bit-cinema-playlist",
+    "storage_bucket": "bit-cinema-playlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:e82742e19ee9b84b",
+        "android_client_info": {
+          "package_name": "com.aprende.ingles.peliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:c541a1dc0e86a59f",
+        "android_client_info": {
+          "package_name": "com.dragonball.noticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:6bf8feafe5b987e1",
+        "android_client_info": {
+          "package_name": "com.eight.bit.bites.cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:094c018778bdd624",
+        "android_client_info": {
+          "package_name": "com.encierrostaurinos.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:0ffdd5a6cde62a74",
+        "android_client_info": {
+          "package_name": "com.gay.series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:3aa3422815f43cc4",
+        "android_client_info": {
+          "package_name": "com.gay.xmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:5eece5ad0a1efb9f",
+        "android_client_info": {
+          "package_name": "com.heavymetal.giphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:ed08ff769604ec4b",
+        "android_client_info": {
+          "package_name": "com.heavymetal.giphymetal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-9r2rbg2r8k10r3eve4hvfq84sh51t431.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heavymetal.giphymetal",
+            "certificate_hash": "c3ac7c1a74c74b48a95c8f40323c522bfbce4dd9"
+          }
+        },
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:260a7a58cfa5ca31",
+        "android_client_info": {
+          "package_name": "com.heavymetal.ringtones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:81e04bb6baed4867",
+        "android_client_info": {
+          "package_name": "com.inglescantando.infantiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:7cb70710bd39722e",
+        "android_client_info": {
+          "package_name": "com.loffee.lofi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:0804b40edc2166a9",
+        "android_client_info": {
+          "package_name": "com.loffee.lofimp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:c225ae3f3637bed7",
+        "android_client_info": {
+          "package_name": "com.movies.gay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:b9fe4a2406df0843",
+        "android_client_info": {
+          "package_name": "com.reva.hollywood.cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:3c039de8b4c0c847",
+        "android_client_info": {
+          "package_name": "com.shehulk.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164844429720:android:e1a1ced482f46afd",
+        "android_client_info": {
+          "package_name": "com.toros.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164844429720-g6nvbokfjo71seoj1bb5vrao4esettrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrEPB_AjB_C5k3COUC1l2_IUmO5tWmMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

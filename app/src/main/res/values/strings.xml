@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Gay X-Men</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="native_ad_fb">1171673969663828_1171675202997038</string>
+    <string name="facebook_app_id">525758727801370</string>
+    <string name="app_id_google">ca-app-pub-8574684333182442~2310547038</string>
+    <string name="intersticial_id_google">ca-app-pub-8574684333182442/6413443573</string>
+    <string name="banner_google">ca-app-pub-8574684333182442/7691985783</string>
+
+    <string name="Banner_facebook">1171673969663828_1171674099663815</string>
+    <string name="interstitial_facebook">1171673969663828_1171676249663600</string>
+
+    <string name="title1vipager">Home</string>
+    <string name="title2vipager">Categories</string>
+    <string name="title3vipager">Favorites</string>
+    <string name="closedrawer">Close</string>
+    <string name="opendrawer">Open</string>
+
+
+    <string name="tuto1">Welcome to Gay X-Men, Enjoy the Best Wallpaper in your Device for Free!</string>
+    <string name="tuto2">Select any Wallpaper and Review it</string>
+    <string name="tuto3">Add to Favorites to Save it and use Later</string>
+    <string name="tuto4">Download any Wallpaper and use for Free</string>
+    <string name="want_use">Do you want use this Wallpaper?</string>
+    <string name="use">USE</string>
+    <string name="don_t_use">Don\'t use</string>
+    <string name="like_wallpaper">Like Wallpaper</string>
+    <string name="like_lock">Like locker</string>
+    <string name="share_it">Share it!</string>
+    <string name="no_support">Your device don\'t support this feature</string>
+    <string name="title_chooser_share">Share via...</string>
+    <string name="look_share">Look more images in </string>
+
+    <string name="linkapp">http://bit.ly/GayX-Men</string>
+    <string name="touch_to_continue">TOUCH TO CONTINUE</string>
+    <string name="wallpaper_are_ready">Your New Wallpaper are Ready</string>
+    <string name="lockscreen_are_ready">Your New Lock Screen are Ready</string>
+    <string name="select_an_option">SELECT AN OPTION</string>
+    <string name="sent_whatsapp">Your Image profile was Selected!</string>
+    <string name="like_ws_profile">Like WhatsApp Profile</string>
+    <string name="rate_message">If you are Enjoying our App, Please Take a Bit Time to Rate our App in Google play</string>
+    <string name="rate_title">Rate!</string>
+    <string name="never_button">Never</string>
+    <string name="not_now_button">Not now</string>
+    <string name="url_google_play">https://play.google.com/store/apps/details?id=</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="policyprivacy">Policy Privacy</string>
+    <string name="conditions">Terms and Conditions</string>
+    <string name="url_policy">https://lofiradios.com/gdpr/gdpr.html</string>
+    <string name="url_conditions">https://lofiradios.com/gdpr/term.html</string>
+
+
+
+    <string name="intro1_title">Welcome to our App</string>
+    <string name="intro2_title">Review It</string>
+    <string name="intro3_title">Add Favorites</string>
+    <string name="intro4_title">Use Wallpaper</string>
+
+
+    <string name="intro1_desc">Welcome to Gay X-Men, Enjoy the Best Wallpaper in your Device for Free!</string>
+    <string name="intro2_desc">Select any Wallpaper and Review it</string>
+    <string name="intro3_desc">Add to Favorites to Save it and use Later</string>
+    <string name="intro4_desc">Download any Wallpaper and use for Free</string>
+
+</resources>
